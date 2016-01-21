@@ -1,2 +1,4 @@
 # Paket manager
 .paket/paket.exe
+
+.DS_Store
